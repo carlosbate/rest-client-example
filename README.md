@@ -10,3 +10,6 @@ The files have the following purpose:
   * [UbiFactoryService](https://github.com/carlosbate/rest-client-example/blob/master/src/main/java/thesis/rest/UbiFactoryService.java) - it is the interface of the REST client that consumes the UbiFactory API
   * [UbiFactoryServiceImpl](https://github.com/carlosbate/rest-client-example/blob/master/src/main/java/thesis/rest/UbiFactoryServiceImpl.java) - the implementation of the UbiFactoryService interface
   * [UbiSOM](https://github.com/carlosbate/rest-client-example/blob/master/src/main/java/thesis/rest/UbiSOM.java) - just a model class to manipulate resources better
+
+The figure below shows the respective package UML class diagram:
+![Class Diagram](https://github.com/carlosbate/rest-client-example/blob/master/class-diagram.png)
