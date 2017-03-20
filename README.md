@@ -12,5 +12,4 @@ The files have the following purpose:
   * [UbiSOM](https://github.com/carlosbate/rest-client-example/blob/master/src/main/java/thesis/rest/UbiSOM.java) - just a model class to manipulate resources better
 
 The figure below shows the respective package UML class diagram:
-![Class Diagram]()
-<img src="https://github.com/carlosbate/rest-client-example/blob/master/class-diagram.png" width="50">
+<img src="https://github.com/carlosbate/rest-client-example/blob/master/class-diagram.png" width="50%">
